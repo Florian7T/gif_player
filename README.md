@@ -5,4 +5,4 @@ Plays gif in your console (someone fork this and improve it)
 requirements: PIL, os, cv2, numpy, time
 
 - Recommended GIF resolution scale is around 16:9
-- Max height is 350px pixels above 350px will be cut off
+- Max height is 330px pixels above 330px will be cut off
